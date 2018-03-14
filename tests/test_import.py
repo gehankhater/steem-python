@@ -6,7 +6,7 @@ sys.path.insert(0, os.path.abspath('..'))
 from steem import *  # noqa
 from steembase import *  # noqa
 
-
+# add new commit
 # pylint: disable=unused-import,unused-variable
 def test_import():
     _ = Steem()
